@@ -120,6 +120,10 @@
     <!-- Alternative: 1dot1dot1dot1.cloudflare-dns.com -->
     <string name="private_dns_hostname_cloudflare" translatable="false">one.one.one.one</string>
 
+    <!-- Navigation bar hint -->
+    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
+    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+
     <!-- Warning message for the sd card setup -->
     <string name="storage_warning_internal">Warning: This option may not work properly or lead to data loss and is therefore not recommended!</string>
 </resources>
