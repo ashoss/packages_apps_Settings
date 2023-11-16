@@ -113,6 +113,9 @@
     <string name="icon_manager_title">Status bar items</string>
     <string name="icon_manager_summary">Control visibility of status bar icons</string>
 
+    <!-- Summary of the lock screen auto pin confirm setting. [CHAR LIMIT=NONE] -->
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Unlock automatically if you input a correct PIN of 4 digits or more. This is slightly less secure than tapping Enter to confirm.</string>
+
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">Peak refresh rate</string>
 
