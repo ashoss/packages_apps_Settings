@@ -15,6 +15,9 @@
      limitations under the License.
 -->
 <resources>
+    <!-- Show battery cycle count -->
+    <bool name="config_show_battery_cycle_count" translatable="false">false</bool>
+
     <!-- Show battery information -->
     <bool name="config_show_battery_info" translatable="false">true</bool>
 </resources>
